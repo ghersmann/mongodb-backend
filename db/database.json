@@ -1,0 +1,691 @@
+{
+  "users": [
+    {
+      "id": "4a3eac09-f652-4d5e-8f4d-691502a71ef6",
+      "name": "John Doe",
+      "email": "john@test.de",
+      "password": "John1234",
+      "trips": [
+        "12345",
+        "1713948486160",
+        "17"
+      ]
+    },
+    {
+      "id": "4a3eav12-e682-4r7r-9f4t-711502a71ef6",
+      "name": "Jane Doe",
+      "email": "jane@test.de",
+      "password": "Jane1234",
+      "trips": [
+        "1714027847900",
+        "1714029612972",
+        "1714030246633",
+        "1714031007615",
+        "17"
+      ]
+    },
+    {
+      "id": "4a3eav12-e682-4r7r-9f4t-711502a71ff4",
+      "name": "Claas",
+      "email": "claas@test.de",
+      "password": "Claas123",
+      "trips": [
+        "12345",
+        "1713948486160",
+        "1714029612972",
+        "1714030246633",
+        "1714031007615",
+        "17",
+        "1727849327863",
+        "1727849720580",
+        "1727851518708"
+      ],
+      "notes": [
+        "Ethically investing dynamically customer-focused propositions is crucial to our unparalleled dot-bomb. Intelligently touching base about monetizing products will make us leaders in the best-of-breed paradigm shift industry. Key players will take ownership of their ballpark figures by effectively revolutionizing next-generation innovations. Efficiencies will come from proactively connecting our standard setters.\n\nWe aim to reliably strategize our stakeholder by virtually right-sizing our cloud native self-driving brands. We thrive because of our company-wide deliverable and world-class architecture culture. It's critical that we give 110% when globally productizing executive searches. Our bandwidth development lifecycle enables mobile, proactive intrapreneurs."
+      ]
+    },
+    {
+      "id": "1724745622305",
+      "name": "GlennFiske",
+      "email": "glenn@fiske.de",
+      "address": "test",
+      "phone": "1234",
+      "password": "Glenn123",
+      "trips": []
+    },
+    {
+      "id": "1724760408868",
+      "name": "GlennFieks",
+      "email": "glenn@fiske.de",
+      "address": "test",
+      "phone": "1234545",
+      "password": "Glenn123",
+      "trips": []
+    },
+    {
+      "id": "1724761176929",
+      "name": "GleenFieks",
+      "email": "fieks@test.de",
+      "address": "wed",
+      "phone": "373248239",
+      "password": "Gleen123",
+      "trips": []
+    },
+    {
+      "id": "1724761514434",
+      "name": "Anneq Hers",
+      "email": "anne@test.de",
+      "address": "dj",
+      "phone": "dkj",
+      "password": "Anne1234",
+      "trips": [
+        "1724762634418"
+      ]
+    },
+    {
+      "id": "1724769072663",
+      "name": "G H",
+      "email": "g@h.de",
+      "address": "",
+      "phone": "",
+      "password": "Gustav12",
+      "trips": [
+        "1724769175876"
+      ],
+      "notes": [
+        "Meet meat"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "12345",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ef6"
+        }
+      ],
+      "tripTitle": "Melbourne, Australia",
+      "tripStart": "27.04.2024 - 08:50",
+      "tripEnd": "30.04.2024 - 08:50",
+      "public": true,
+      "details": {
+        "transport": [
+          {
+            "category": "transport",
+            "name": "Flight to Melbourne",
+            "zipcode": "12345",
+            "city": "Frankfurt a.M.",
+            "address": "Flughafen, Frankfurt a.M.",
+            "startDate": "27.04.2024 - 08:52",
+            "endDate": "27.04.2024 - 19:52",
+            "notes": "Meet at check-in at 07:00",
+            "isAdmin": false,
+            "id": "796749"
+          },
+          {
+            "category": "transport",
+            "name": "Flight to Frankfurt",
+            "zipcode": "54321",
+            "city": "Melbourne",
+            "address": "Melbourne Airport",
+            "startDate": "28.04.2024 - 08:56",
+            "endDate": "28.04.2024 - 22:52",
+            "notes": "Meet at check-in at 07:00",
+            "isAdmin": false,
+            "id": "482203"
+          }
+        ],
+        "lodging": [
+          {
+            "category": "lodging",
+            "name": "Fawlty Towers",
+            "zipcode": "12345",
+            "city": "Melbourne",
+            "address": "Queen Victoria Market 1",
+            "startDate": "27.04.2024 - 21:00",
+            "endDate": "28.04.2024 - 10:00",
+            "notes": "Breakfast NOT included",
+            "isAdmin": false,
+            "id": "667395"
+          },
+          {
+            "category": "lodging",
+            "name": "Hotel Crud",
+            "zipcode": "46252",
+            "city": "Suhl",
+            "address": "Hauptstr. 1",
+            "startDate": "17.07.2024 - 09:02",
+            "endDate": "28.07.2024 - 09:02",
+            "notes": "Breakfast included",
+            "isAdmin": false,
+            "id": "77671"
+          }
+        ],
+        "activity": [
+          {
+            "category": "activity",
+            "name": "Coffee Tasting",
+            "zipcode": "23EV23",
+            "city": "Pedros Coffee",
+            "address": "608 St. Kilda Road",
+            "startDate": "28.04.2024 - 05:00",
+            "endDate": "28.04.2024 - 06:00",
+            "notes": "Pedro like whisky. Get some at the Airport",
+            "isAdmin": false,
+            "id": "449070"
+          }
+        ],
+        "groupmembers": [
+          {
+            "category": "groupmembers",
+            "name": "max sdaisadf",
+            "zipcode": "12345",
+            "city": "Gotha",
+            "address": "dfghg",
+            "notes": "In charge of bringing coffee beans for the tasting.",
+            "isAdmin": false,
+            "id": "429762",
+            "tele": "124"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Karen Hydro",
+            "zipcode": "23GE45",
+            "city": "Suhl",
+            "address": "ah, down by the bowling alley",
+            "startDate": "",
+            "endDate": "",
+            "notes": "No, Karen, no.",
+            "isAdmin": false,
+            "id": "25615",
+            "tele": "ad"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Glenn Fiske",
+            "zipcode": "Fisk!3",
+            "city": "Zella-Mehlis",
+            "address": "Am Rain 23, 22351 Bäckerbach",
+            "startDate": "18.07.2024 - 12:32",
+            "endDate": "21.07.2024 - 12:33",
+            "notes": "",
+            "isAdmin": false,
+            "id": "457326"
+          }
+        ],
+        "packlist": [
+          "Coffee Beans",
+          "Coffee Grinder",
+          "Camping Stove"
+        ],
+        "notes": [
+          "Please add your notes on how the coffee tasting goes here!",
+          "No guns this time Michelle!"
+        ]
+      }
+    },
+    {
+      "id": "1714029612972",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ef6"
+        }
+      ],
+      "tripTitle": "Vegas Baby!",
+      "tripStart": "04.05.2024 - 09:20",
+      "tripEnd": "12.05.2024 - 09:20",
+      "public": true,
+      "details": {
+        "transport": [],
+        "lodging": [
+          {
+            "category": "lodging",
+            "name": "Marriot Hotel",
+            "zipcode": "",
+            "city": "Las Vegas",
+            "address": "",
+            "startDate": "05.05.2024 - 09:22",
+            "endDate": "12.05.2024 - 09:22",
+            "notes": "",
+            "isAdmin": false,
+            "id": "99854"
+          }
+        ],
+        "activity": [
+          {
+            "category": "activity",
+            "name": "Gambling",
+            "zipcode": "",
+            "city": "\"The Strip\"",
+            "address": "Las Vegas Boulevard",
+            "startDate": "05.05.2024 - 09:23",
+            "endDate": "12.05.2024 - 09:23",
+            "notes": "Don't loose ALL your money, we have to pay gas money to Claas afterwards",
+            "isAdmin": false,
+            "id": "613048"
+          }
+        ],
+        "groupmembers": [
+          {
+            "category": "groupmembers",
+            "name": "Ziggy",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "notes": "",
+            "isAdmin": false,
+            "id": "298142"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Connie",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "notes": "",
+            "isAdmin": false,
+            "id": "530894"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Chantal",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "notes": "",
+            "isAdmin": false,
+            "id": "260806"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Michelle",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "notes": "",
+            "isAdmin": false,
+            "id": "844261"
+          },
+          {
+            "category": "groupmembers",
+            "name": "Sunken",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "notes": "",
+            "isAdmin": false,
+            "id": "892827"
+          }
+        ],
+        "packlist": [
+          "Deodorant.",
+          "Shoes"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "id": "1714030246633",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ef6"
+        }
+      ],
+      "tripTitle": "Los Angeles",
+      "tripStart": "28.06.2024 - 09:30",
+      "tripEnd": "03.08.2024 - 09:30",
+      "public": true,
+      "details": {
+        "transport": [],
+        "lodging": [],
+        "activity": [
+          {
+            "category": "activity",
+            "name": "Petersen Automotive Museum",
+            "zipcode": "",
+            "city": "Los Angeles",
+            "address": "6060 Wilshire Blvd",
+            "startDate": "28.06.2024 - 10:00",
+            "endDate": "03.08.2024 - 18:00",
+            "notes": "Sonja's car collection is on temporary display during this time",
+            "isAdmin": false,
+            "id": "403834"
+          }
+        ],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1714031007615",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ef6"
+        }
+      ],
+      "tripTitle": "Glurns, Südtirol",
+      "tripStart": "05.09.2024 - 09:43",
+      "tripEnd": "05.06.2024 - 09:43",
+      "public": true,
+      "details": {
+        "transport": [
+          {
+            "category": "transport",
+            "name": "Erfurt nach Glurns",
+            "zipcode": "",
+            "city": "Erfurt Hbf",
+            "address": "",
+            "startDate": "18.05.2024 - 09:32",
+            "endDate": "18.05.2024 - 19:35",
+            "notes": "",
+            "isAdmin": false,
+            "id": "662827"
+          },
+          {
+            "category": "transport",
+            "name": "Glurns nach Erfurt",
+            "zipcode": "",
+            "city": "Glurns",
+            "address": "Tauferer Tor",
+            "startDate": "02.06.2024 - 12:08",
+            "endDate": "02.06.2024 - 22:09",
+            "notes": "",
+            "isAdmin": false,
+            "id": "464428"
+          }
+        ],
+        "lodging": [
+          {
+            "category": "lodging",
+            "name": "Camping im Park",
+            "zipcode": "",
+            "city": "Glurns",
+            "address": "Parkweg 1, 39020 Glorenza BZ, Italy",
+            "startDate": "18.05.2024 - 15:00",
+            "endDate": "02.06.2024 - 10:00",
+            "notes": "",
+            "isAdmin": false,
+            "id": "6197"
+          }
+        ],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [
+          "Zelt",
+          "Schlafsack",
+          "Campingkocher",
+          "Wanderschuhe",
+          "Nudeln"
+        ],
+        "notes": []
+      }
+    },
+    {
+      "id": "17",
+      "admins": [
+        {
+          "userId": "4a3eac09-f652-4d5e-8f4d-691502a71ef6"
+        }
+      ],
+      "tripTitle": "Gotha",
+      "tripStart": "14.06.2024 - 11:33",
+      "tripEnd": "16.06.2024 - 11:33",
+      "public": false,
+      "details": {
+        "transport": [
+          {
+            "category": "transport",
+            "name": "Claas Auto",
+            "zipcode": "",
+            "city": "",
+            "address": "Parkplatz bei Tegut",
+            "startDate": "14.06.2024 - 11:34",
+            "endDate": "14.06.2024 - 15:34",
+            "notes": "",
+            "isAdmin": false,
+            "id": "81050"
+          }
+        ],
+        "lodging": [
+          {
+            "category": "lodging",
+            "name": "Gothaer Hof",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "startDate": "14.06.2024 - 11:34",
+            "endDate": "16.06.2024 - 11:34",
+            "notes": "",
+            "isAdmin": false,
+            "id": "209625"
+          },
+          {
+            "category": "lodging",
+            "name": "Hells Angels Hof",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "startDate": "26.07.2024 - 16:36",
+            "endDate": "28.07.2024 - 16:36",
+            "notes": "",
+            "isAdmin": false,
+            "id": "115440"
+          }
+        ],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1724762634418",
+      "admins": [
+        {
+          "userId": "1724761514434"
+        }
+      ],
+      "tripTitle": "Suhl",
+      "tripStart": "29.08.2024 - 14:43",
+      "tripEnd": "31.08.2024 - 14:43",
+      "public": false,
+      "details": {
+        "transport": [],
+        "lodging": [],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1724769175876",
+      "admins": [
+        {
+          "userId": "1724769072663"
+        }
+      ],
+      "tripTitle": "Rome",
+      "tripStart": "29.08.2024 - 16:32",
+      "tripEnd": "01.09.2024 - 16:32",
+      "public": false,
+      "details": {
+        "transport": [
+          {
+            "category": "transport",
+            "name": "Hehe",
+            "zipcode": "",
+            "city": "",
+            "address": "",
+            "startDate": "22.08.2024 - 16:33",
+            "notes": "",
+            "isAdmin": false,
+            "id": "338224"
+          }
+        ],
+        "lodging": [],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": [
+          "No guns"
+        ]
+      }
+    },
+    {
+      "id": "1727849327863",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ff4"
+        }
+      ],
+      "tripTitle": "New trip 1",
+      "tripStart": "03.10.2024 - 08:08",
+      "tripEnd": "04.10.2024 - 08:08",
+      "public": false,
+      "details": {
+        "transport": [],
+        "lodging": [],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1727849720580",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ff4"
+        }
+      ],
+      "tripTitle": "NEw Trip 2",
+      "tripStart": "03.10.2024 - 08:15",
+      "tripEnd": "04.10.2024 - 08:15",
+      "public": false,
+      "details": {
+        "transport": [],
+        "lodging": [],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1727851518708",
+      "admins": [
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ff4"
+        }
+      ],
+      "tripTitle": "New trip 3",
+      "tripStart": "03.10.2024 - 08:45",
+      "tripEnd": "04.10.2024 - 08:45",
+      "public": false,
+      "details": {
+        "transport": [],
+        "lodging": [],
+        "activity": [],
+        "groupmembers": [],
+        "packlist": [],
+        "notes": []
+      }
+    },
+    {
+      "id": "1713948486160",
+      "admins": [
+        {
+          "userId": "4a3eac09-f652-4d5e-8f4d-691502a71ef6"
+        },
+        {
+          "userId": "4a3eav12-e682-4r7r-9f4t-711502a71ef6"
+        }
+      ],
+      "tripTitle": "Ausflug nach Bremen",
+      "tripStart": "16.06.2024 - 13:30",
+      "tripEnd": "20.06.2024 - 12:00",
+      "public": false,
+      "details": {
+        "transport": [
+          {
+            "category": "transport",
+            "name": "Flight to Melbourne",
+            "zipcode": "12345",
+            "city": "Frankfurt a.M.",
+            "address": "Flughafen, Frankfurt a.M.",
+            "startDate": "27.04.2024 - 08:52",
+            "endDate": "27.04.2024 - 19:52",
+            "notes": "Meet at check-in at 07:00",
+            "isAdmin": false,
+            "id": "796749"
+          },
+          {
+            "category": "transport",
+            "name": "Flight to Frankfurt",
+            "zipcode": "54321",
+            "city": "Melbourne",
+            "address": "Melbourne Airport",
+            "startDate": "28.04.2024 - 08:56",
+            "endDate": "28.04.2024 - 22:52",
+            "notes": "Meet at check-in at 07:00",
+            "isAdmin": false,
+            "id": "482203"
+          }
+        ],
+        "lodging": [
+          {
+            "category": "lodging",
+            "name": "Vier Jahreszeiten",
+            "zipcode": "28195",
+            "city": "Bremen",
+            "address": "Hauptstr. 1"
+          }
+        ],
+        "activity": [
+          {
+            "category": "activity",
+            "name": "Stadtführung",
+            "startDate": "17.05.2024 - 10:00",
+            "endDate": "17.05.2024 - 12:00",
+            "zipcode": "28195",
+            "city": "Bremen",
+            "address": "Mozartstr. 42"
+          },
+          {
+            "category": "activity",
+            "name": "Fußball spielen",
+            "startDate": "19.05.2024 - 13:00",
+            "notes": "Wir gehen vom Hotel gemeinsam zum Sportplatz"
+          }
+        ],
+        "groupmembers": [
+          {
+            "name": "Gustav",
+            "id": "1"
+          },
+          {
+            "name": "Sonja",
+            "id": "2"
+          },
+          {
+            "name": "Claas",
+            "id": "3",
+            "startDate": "19.05.2024 - 12:30",
+            "endDate": "20.05.2024 - 18:00"
+          }
+        ],
+        "packlist": [
+          "Fußball",
+          "Bahnticket",
+          "Gute Laune :)"
+        ],
+        "notes": [
+          "Ethically investing dynamically customer-focused propositions is crucial to our unparalleled dot-bomb. Intelligently touching base about monetizing products will make us leaders in the best-of-breed paradigm shift industry. Key players will take ownership of their ballpark figures by effectively revolutionizing next-generation innovations. Efficiencies will come from proactively connecting our standard setters.\n\nWe aim to reliably strategize our stakeholder by virtually right-sizing our cloud native self-driving brands. We thrive because of our company-wide deliverable and world-class architecture culture. It's critical that we give 110% when globally productizing executive searches. Our bandwidth development lifecycle enables mobile, proactive intrapreneurs."
+        ]
+      }
+    }
+  ]
+}

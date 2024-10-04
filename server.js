@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGO_URI, {
 
 // Simple route for testing
 app.get('/', (req, res) => {
-  res.send('API is working');
+  res.send('API is working. Woho!');
 });
 
 // Start the server

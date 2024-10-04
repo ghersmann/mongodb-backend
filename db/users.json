@@ -1,0 +1,59 @@
+{
+    "users": [
+    {
+      "id": "4a3eac09-f652-4d5e-8f4d-691502a71ef6",
+      "name": "John Doe",
+      "email": "john@test.de",
+      "password": "John1234",
+      "trips": [
+        "12345",
+        "1713948486160",
+        "17"
+      ],
+      "notes": ["No guns for Michelle, we all know how the trip to Vegas ended..."]
+    },
+    {
+      "id": "4a3eav12-e682-4r7r-9f4t-711502a71ef6",
+      "name": "Jane Doe",
+      "email": "jane@test.de",
+      "password": "Jane1234",
+      "trips": [
+        "1714027847900",
+        "1714029612972",
+        "1714030246633",
+        "1714031007615",
+        "17"
+      ],
+      "notes": ["Notify Michelle."]
+    },
+    {
+      "id": "4a3eav12-e682-4r7r-9f4t-711502a71ff4",
+      "name": "Claas",
+      "email": "claas@test.de",
+      "password": "Claas123",
+      "trips": [
+        "12345",
+        "1713948486160",
+        "1714029612972",
+        "1714030246633",
+        "1714031007615",
+        "17",
+        "1727849327863",
+        "1727849720580",
+        "1727851518708"
+      ],
+      "notes": [
+        "Ethically investing dynamically customer-focused propositions is crucial to our unparalleled dot-bomb. Intelligently touching base about monetizing products will make us leaders in the best-of-breed paradigm shift industry. Key players will take ownership of their ballpark figures by effectively revolutionizing next-generation innovations. Efficiencies will come from proactively connecting our standard setters.\n\nWe aim to reliably strategize our stakeholder by virtually right-sizing our cloud native self-driving brands. We thrive because of our company-wide deliverable and world-class architecture culture. It's critical that we give 110% when globally productizing executive searches. Our bandwidth development lifecycle enables mobile, proactive intrapreneurs."
+      ]
+    },
+    {
+      "id": "1724745622305",
+      "name": "GlennFiske",
+      "email": "glenn@fiske.de",
+      "address": "test",
+      "phone": "1234",
+      "password": "Glenn123",
+      "trips": [],
+      "notes": []
+    }
+]}
